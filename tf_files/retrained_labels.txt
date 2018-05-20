@@ -1,5 +1,20 @@
+apple
+banana
+bell pepper
+broccoli
+carrot
+cucumber
 daisy
 dandelion
+grape
+lemon
+orange
+peach
+pear
+pineapple
+potato
 roses
+strawberry
 sunflowers
+tomato
 tulips
